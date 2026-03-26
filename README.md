@@ -1,14 +1,13 @@
 # Daniel Im
 
-Revenue infrastructure operator building CRM architecture, governance systems, workflow automation, and reporting stacks inside live revenue environments.
+Revenue operations-focused builder designing CRM architecture, governance systems, workflow automation, and reporting inside live sales environments.
 
 Implemented:
-- 9+ operational systems
-- 9,000+ account enrichment pipeline
-- Supabase + Next.js reporting infrastructure
-- Trigger-based CRM automation
+- 9,000+ account enrichment initiative improving CRM data integrity
+- Salesforce-based workflow automation (lead conversion, routing, validation)
+- SDR performance and revenue attribution reporting systems
+- Portfolio reporting infrastructure using Supabase + Next.js
 
-Focused on API-first, AI-native, and infrastructure-adjacent environments where distribution and system design intersect.
+Focused on systems design, data integrity, and scalable revenue operations infrastructure.
 
-Primary portfolio:
-→ revops-systems-architecture
+Primary portfolio: → revops-systems-architecture
